@@ -1,0 +1,15 @@
+/Users/Monkey/Desktop/Andrey/bin/Debug/net6.0/Andrey
+/Users/Monkey/Desktop/Andrey/bin/Debug/net6.0/Andrey.deps.json
+/Users/Monkey/Desktop/Andrey/bin/Debug/net6.0/Andrey.runtimeconfig.json
+/Users/Monkey/Desktop/Andrey/bin/Debug/net6.0/Andrey.dll
+/Users/Monkey/Desktop/Andrey/bin/Debug/net6.0/Andrey.pdb
+/Users/Monkey/Desktop/Andrey/obj/Debug/net6.0/Andrey.csproj.AssemblyReference.cache
+/Users/Monkey/Desktop/Andrey/obj/Debug/net6.0/Andrey.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Monkey/Desktop/Andrey/obj/Debug/net6.0/Andrey.AssemblyInfoInputs.cache
+/Users/Monkey/Desktop/Andrey/obj/Debug/net6.0/Andrey.AssemblyInfo.cs
+/Users/Monkey/Desktop/Andrey/obj/Debug/net6.0/Andrey.csproj.CoreCompileInputs.cache
+/Users/Monkey/Desktop/Andrey/obj/Debug/net6.0/Andrey.dll
+/Users/Monkey/Desktop/Andrey/obj/Debug/net6.0/refint/Andrey.dll
+/Users/Monkey/Desktop/Andrey/obj/Debug/net6.0/Andrey.pdb
+/Users/Monkey/Desktop/Andrey/obj/Debug/net6.0/Andrey.genruntimeconfig.cache
+/Users/Monkey/Desktop/Andrey/obj/Debug/net6.0/ref/Andrey.dll
